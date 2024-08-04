@@ -12,4 +12,4 @@ set -xe
 gcc -o ./bin/main ./main.c 
 
 ## Run file
-./bin/main -f ./dev/emp.txt
+./bin/main -n -f dev/test.bin
